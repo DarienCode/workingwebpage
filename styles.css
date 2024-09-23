@@ -1,0 +1,83 @@
+header{
+    background-color: black;
+}
+
+.torokbanner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0px;
+}
+.navigation {
+    display: block;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+}
+.info {
+    float: left;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 0 0 5px #A03858, 0 0 10px #A03858, 0 0 15px #A03858, 
+    0 0 20px #A03858, 0 0 30px #A03858, 0 0 40px #A03858;
+}
+.bigman{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0px; }
+
+    body{
+        background-image: url(images/red-lightning\ \(1\).gif);
+        background-size: 50%
+        
+    }
+    #moonlight{
+        width: 400px;
+    }
+    #frieza{
+        width: 400px;
+    }
+    #analytics{
+        width: 400px;
+        float: left;
+    }
+    #Retribution{
+        width: 400px;
+        float: left;
+        clear: both;
+    }
+h1{
+    color: whitesmoke;
+    background-color: black;
+    text-shadow: 0 0 5px #A03858, 0 0 10px #A03858, 0 0 15px #A03858, 
+    0 0 20px #A03858, 0 0 30px #A03858, 0 0 40px #A03858;
+}
+p {
+    color: whitesmoke;
+    text-shadow: 0 0 5px #A03858, 0 0 10px #A03858, 0 0 15px #A03858, 
+    0 0 20px #A03858, 0 0 30px #A03858, 0 0 40px #A03858;
+    margin: auto;
+}
+#rightParagraph{
+    float: left;
+}
+#leftParagraph{
+    float: right;
+}
+
+
+/*.glow {
+    font-size: 48px;
+    color: #A03858;
+    text-align: center;
+    text-shadow: 0 0 5px #A03858, 0 0 10px #A03858, 0 0 15px #A03858, 
+                 0 0 20px #A03858, 0 0 30px #A03858, 0 0 40px #A03858;
+                 */
